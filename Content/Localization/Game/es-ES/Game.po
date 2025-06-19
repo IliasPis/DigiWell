@@ -1,0 +1,1457 @@
+﻿# Game Spanish (Spain) translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2024-02-05 12:25\n"
+"PO-Revision-Date: 2024-02-05 12:25\n"
+"Language-Team: \n"
+"Language: es-ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	001ADC5048A1BCEBAB292A9EE2C8F1FB
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:AskQuestion_C_2.Rensponses(0).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:AskQuestion_C_2.Rensponses(0).Rensponses
+msgctxt ",001ADC5048A1BCEBAB292A9EE2C8F1FB"
+msgid "Send a collective email to all staff with links to short ergonomic videos and websites to educate them about healthy office practices and suitable office furniture for digital work."
+msgstr ""
+
+#. Key:	003B871F4DC569E4E0FB93A213408193
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:AskQuestion_C_2.Question
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:AskQuestion_C_2.Question
+msgctxt ",003B871F4DC569E4E0FB93A213408193"
+msgid "Your role is to raise employees' awareness of potentially harmful habits and guide them in making positive changes to maintain the benefits of their technology use. How can you help them realize the drawbacks of their habits and transition to healthier ones?"
+msgstr ""
+
+#. Key:	009018B64FC253581CF201A93DF29DB8
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(14 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(14 - Value).DisplayNameMap
+msgctxt ",009018B64FC253581CF201A93DF29DB8"
+msgid "Style Snow"
+msgstr ""
+
+#. Key:	009A928F4524F7B60E144E9FDD7B3B9B
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:DisplayLine_C_22.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:DisplayLine_C_22.Text
+msgctxt ",009A928F4524F7B60E144E9FDD7B3B9B"
+msgid "Furthermore, demonstration of correct ergonomic use of digitall tools and office furniture, will engage employees directly, making them expand their awareness and knowledge in this field."
+msgstr ""
+
+#. Key:	00D9181C4E1D55AE57A9ECBA55F7DA3B
+#. SourceLocation:	/Game/Menu/Widgets/PAUSE_MENU/Pause_Widget.Pause_Widget_C:WidgetTree.TextBlock_691.Text
+#: /Game/Menu/Widgets/PAUSE_MENU/Pause_Widget.Pause_Widget_C:WidgetTree.TextBlock_691.Text
+msgctxt ",00D9181C4E1D55AE57A9ECBA55F7DA3B"
+msgid "Exit"
+msgstr "Salir"
+
+#. Key:	0188C3C546AE58394B06E798AEEC97F5
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:DisplayLine_C_21.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:DisplayLine_C_21.Text
+msgctxt ",0188C3C546AE58394B06E798AEEC97F5"
+msgid " It might be a good way to develop a good habit for now but isn't sustainable in the long run."
+msgstr ""
+
+#. Key:	0249A0E24FE0A005BF5F1B82F8F4E399
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",0249A0E24FE0A005BF5F1B82F8F4E399"
+msgid "Style Cold"
+msgstr ""
+
+#. Key:	032CD5BD4F5BD4CB00B5DAB2CB821EB2
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_22.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_22.Text
+msgctxt ",032CD5BD4F5BD4CB00B5DAB2CB821EB2"
+msgid "For instance, at which hours he/she can or cannot be contacted, and which tools to use to contact the office (calling by phone or via internet)- considering situations when employee may not always have internet access during his/her leave."
+msgstr ""
+
+#. Key:	03D6A07D45CE5D86260F228B0219A9C6
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:AskQuestion_C_2.Rensponses(0).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:AskQuestion_C_2.Rensponses(0).Rensponses
+msgctxt ",03D6A07D45CE5D86260F228B0219A9C6"
+msgid "Promote the launch of a 'Wellness and Mindfulness' program at work, featuring regular mindfulness sessions, digital detox workshops, and the establishment of dedicated \"Wellbeing Zones\" in the office."
+msgstr ""
+
+#. Key:	03E152E84E97ED4BC3215B8A184D90F0
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:DisplayLine_C_14.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:DisplayLine_C_14.Text
+msgctxt ",03E152E84E97ED4BC3215B8A184D90F0"
+msgid "This apporach is more wholistic and gives several motivators to change such as collaboration, competition and reward. "
+msgstr ""
+
+#. Key:	03FF16DC4F80E00B481E3BAC3803B313
+#. SourceLocation:	/Game/LEVELS/GAME_LEVEL.GAME_LEVEL:PersistentLevel.NPC_9.Name
+#: /Game/LEVELS/GAME_LEVEL.GAME_LEVEL:PersistentLevel.NPC_9.Name
+msgctxt ",03FF16DC4F80E00B481E3BAC3803B313"
+msgid "Allison"
+msgstr ""
+
+#. Key:	059232DA484ED8CC1D011DA8A1B5740E
+#. SourceLocation:	/Game/Menu/Widgets/Instructions.Instructions_C:ExecuteUbergraph_Instructions [Script Bytecode]
+#: /Game/Menu/Widgets/Instructions.Instructions_C:ExecuteUbergraph_Instructions [Script Bytecode]
+msgctxt ",059232DA484ED8CC1D011DA8A1B5740E"
+msgid "You're now part of DigiWell, an organization dedicated to improving digital wellbeing. As the Digital Wellbeing Manager, get ready to take on challenges and discover solutions that enhance your employees' tech-life balance.\r\n"
+msgstr ""
+
+#. Key:	07FA82044A9528C6424B7D9B4496B405
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(20 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(20 - Value).DisplayNameMap
+msgctxt ",07FA82044A9528C6424B7D9B4496B405"
+msgid "Style UDK Morning Sky"
+msgstr ""
+
+#. Key:	088CB5B54DE6D49F27401DB55E8A2AFE
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:DisplayLine_C_22.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:DisplayLine_C_22.Text
+msgctxt ",088CB5B54DE6D49F27401DB55E8A2AFE"
+msgid "Changing as a team is more sustainable as well as strenghtens other practices which are benefitting one's own wellbeing."
+msgstr ""
+
+#. Key:	0908BFE7445DEF3BC81ABBA615901517
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",0908BFE7445DEF3BC81ABBA615901517"
+msgid "SunSet Smoothly"
+msgstr ""
+
+#. Key:	0FF132EF468FC5DC234CB6A5C624001E
+#. SourceLocation:	/Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.TextBlock_590.Text
+#: /Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.TextBlock_590.Text
+msgctxt ",0FF132EF468FC5DC234CB6A5C624001E"
+msgid "The game aims to enhance your skills as a Digital Wellbeing Manager by challenging you to find the best solutions for various employee-related issues. Upon completing all the challenges, you will receive a comprehensive score analysis, accompanied by a Core Standard List. This list serves as a valuable resource, empowering you in your role and effectively promote digital wellbeing among your team."
+msgstr ""
+
+#. Key:	0FF813FA47917E6F4FFA008DB40B3827
+#. SourceLocation:	/Game/Menu/Widgets/Instructions.Instructions_C:ExecuteUbergraph_Instructions [Script Bytecode]
+#: /Game/Menu/Widgets/Instructions.Instructions_C:ExecuteUbergraph_Instructions [Script Bytecode]
+msgctxt ",0FF813FA47917E6F4FFA008DB40B3827"
+msgid "Our purpose is to elevate the digital wellbeing of your workplace. With the DigiWell app, we've revolutionized the evaluation process by digitizing wellbeing standards. \r\n"
+msgstr ""
+
+#. Key:	12EB0DD341DFCC7953C4188DC34C244F
+#. SourceLocation:	/Game/Dialogue_System/UserInterface/Interact.Default__Interact_C.MessageText
+#: /Game/Dialogue_System/UserInterface/Interact.Default__Interact_C.MessageText
+msgctxt ",12EB0DD341DFCC7953C4188DC34C244F"
+msgid "Press to Talk"
+msgstr "Presiona para Hablar"
+
+#. Key:	130AA14048ADCFFB53579A82D3FD37D1
+#. SourceLocation:	/Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.TextBlock_640.Text
+#: /Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.TextBlock_640.Text
+msgctxt ",130AA14048ADCFFB53579A82D3FD37D1"
+msgid "Start"
+msgstr "Inicio"
+
+#. Key:	15182F514C61E2DDA79534A869DB918F
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:DisplayLine_C_15.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:DisplayLine_C_15.Text
+msgctxt ",15182F514C61E2DDA79534A869DB918F"
+msgid "This approach is great and helps most people to develop positive digital habits. However changing in environement where everyone else uses their phone and is expecting you to do so too is hard."
+msgstr ""
+
+#. Key:	156E80504202FDEF7E74C780B622E88E
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:DisplayLine_C_15.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:DisplayLine_C_15.Text
+msgctxt ",156E80504202FDEF7E74C780B622E88E"
+msgid " The 'Tech Buddy' system not only combats the feelings of techno-complexity but also fosters community and collaboration among employees.By learning together and sharing expertise, employees can better navigate the evolving digital landscape. "
+msgstr ""
+
+#. Key:	1649568E44FB5028E6B5E78D7395B844
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_16.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_16.Text
+msgctxt ",1649568E44FB5028E6B5E78D7395B844"
+msgid "Planning and prioritising of tasks is necessary and beneficial at times of immediate leave. In case of a challenge like this, employee should always be implementing effective time management skills to set up a schedule. "
+msgstr ""
+
+#. Key:	1680FB49428510B640767FBC29D9E5A9
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(17 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(17 - Value).DisplayNameMap
+msgctxt ",1680FB49428510B640767FBC29D9E5A9"
+msgid "Style UDK Noon Sky"
+msgstr ""
+
+#. Key:	18233E7B401CCF05879D94A226E71ED1
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_SunDirection.Enum_SunDirection.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_SunDirection.Enum_SunDirection.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",18233E7B401CCF05879D94A226E71ED1"
+msgid "315 degree_X+ Y-"
+msgstr ""
+
+#. Key:	18B651DF44781E89468C68BE7E7F4FD3
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:DisplayLine_C_21.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:DisplayLine_C_21.Text
+msgctxt ",18B651DF44781E89468C68BE7E7F4FD3"
+msgid " This approach is of a more permanent character, allowing employees permanent access to the platform and thereby less disruptive to the daily workflow, as employees decide if and when they want to seek out new knowledge. However, the level of engagement is for the employee to decide.\r\n"
+msgstr ""
+
+#. Key:	1B36BC4445554034F5EE08A0DD8474B6
+#. SourceLocation:	/Game/Menu/Widgets/Feedback.Feedback_C:WidgetTree.TextBlock_6.Text
+#: /Game/Menu/Widgets/Feedback.Feedback_C:WidgetTree.TextBlock_6.Text
+msgctxt ",1B36BC4445554034F5EE08A0DD8474B6"
+msgid "Main Menu"
+msgstr "Menú Principal"
+
+#. Key:	1B49C44A4E0820B3B8D38F8F62BFB106
+#. SourceLocation:	/Game/Achievement_System/Achievement_hud.Achievement_hud_C:WidgetTree.TextBlock.Text
+#: /Game/Achievement_System/Achievement_hud.Achievement_hud_C:WidgetTree.TextBlock.Text
+msgctxt ",1B49C44A4E0820B3B8D38F8F62BFB106"
+msgid "Close"
+msgstr "Cerrar"
+
+#. Key:	1DC7A859456977174A0F16A081E11C6E
+#. SourceLocation:	/Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_8.Text
+#: /Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_8.Text
+msgctxt ",1DC7A859456977174A0F16A081E11C6E"
+msgid "Sky Preset"
+msgstr ""
+
+#. Key:	2030F32D4B7C09542BF95B97EEA7DEEC
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:AskQuestion_C_2.Question
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:AskQuestion_C_2.Question
+msgctxt ",2030F32D4B7C09542BF95B97EEA7DEEC"
+msgid "You're here to discover innovative strategies for enhancing work experience and addressing technostress in the organization. What are your top three solutions to implement?"
+msgstr ""
+
+#. Key:	20A7BAEB4BB1D60BB9E928B8731289E2
+#. SourceLocation:	/Game/LEVELS/GAME_LEVEL.GAME_LEVEL:PersistentLevel.NPC_3.Name
+#: /Game/LEVELS/GAME_LEVEL.GAME_LEVEL:PersistentLevel.NPC_3.Name
+msgctxt ",20A7BAEB4BB1D60BB9E928B8731289E2"
+msgid "Margaret"
+msgstr ""
+
+#. Key:	220D035244743C0DD34B4E8FDA145B69
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:AskQuestion_C_2.Rensponses(1).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:AskQuestion_C_2.Rensponses(1).Rensponses
+msgctxt ",220D035244743C0DD34B4E8FDA145B69"
+msgid "Emphasize the benefits of adopting healthier digital habits, including smartphone use. Develop a change plan with desired behavior, steps, and rewards. Monitor progress through regular feedback sessions."
+msgstr ""
+
+#. Key:	22203A3B4072CFE3C2F6E3A292E2B789
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",22203A3B4072CFE3C2F6E3A292E2B789"
+msgid "Midnight Storm"
+msgstr ""
+
+#. Key:	244132ED4296502D824B28AAF76D6010
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_SunDirection.Enum_SunDirection.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_SunDirection.Enum_SunDirection.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",244132ED4296502D824B28AAF76D6010"
+msgid "270 degree_X0 Y-"
+msgstr ""
+
+#. Key:	24C02111400EF76FF033268A00C7F050
+#. SourceLocation:	/Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_4.Text
+#: /Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_4.Text
+msgctxt ",24C02111400EF76FF033268A00C7F050"
+msgid "0 X"
+msgstr ""
+
+#. Key:	262768E542DA113C7DDDF2B2CF1100B7
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(19 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(19 - Value).DisplayNameMap
+msgctxt ",262768E542DA113C7DDDF2B2CF1100B7"
+msgid "Style UDK Afternoon Sky"
+msgstr ""
+
+#. Key:	286716F44AE69FD83BB4FB968464C011
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:DisplayLine_C_22.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:DisplayLine_C_22.Text
+msgctxt ",286716F44AE69FD83BB4FB968464C011"
+msgid "It's a targeted approach but requires cross-departmental collaboration and understanding and more likely to encompass a long-term impact. "
+msgstr ""
+
+#. Key:	295D815648C7AA430A5928A00995E021
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:AskQuestion_C_2.Question
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:AskQuestion_C_2.Question
+msgctxt ",295D815648C7AA430A5928A00995E021"
+msgid "Your role is to raise awareness of potentially harmful habits that can impact psychological and social well-being. You need to guide employees in making responsible and moderate use of technology. How can you effectively help employees recognize these adverse effects and transition to healthier habits?"
+msgstr ""
+
+#. Key:	2994093249C7818356F06F92E4AF9176
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(18 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(18 - Value).DisplayNameMap
+msgctxt ",2994093249C7818356F06F92E4AF9176"
+msgid "Style UDK Night Sky"
+msgstr ""
+
+#. Key:	29BD58F44940479856DC83A920C4E1AB
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(16 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(16 - Value).DisplayNameMap
+msgctxt ",29BD58F44940479856DC83A920C4E1AB"
+msgid "Style UE4 Default Sky"
+msgstr ""
+
+#. Key:	2A66784C446B25DCE7BBB19A242ECEBC
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:DisplayLine_C_21.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:DisplayLine_C_21.Text
+msgctxt ",2A66784C446B25DCE7BBB19A242ECEBC"
+msgid "However, some employees feel the need for clearer distinctions between urgent and non-urgent matters to avoid potential misunderstandings."
+msgstr ""
+
+#. Key:	2D63A7B843E474BE7587FA9277A21BF6
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:DisplayLine_C_15.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:DisplayLine_C_15.Text
+msgctxt ",2D63A7B843E474BE7587FA9277A21BF6"
+msgid "Employees find the communication guidelines helpful in managing their time and reducing the constant influx of messages. "
+msgstr ""
+
+#. Key:	2DDB6B174D4D153A9CBEEFB89D9CF158
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/EndDialogue/FirstStage/ScoreGain.ScoreGain_C:WidgetTree.Feedback.Text
+#: /Game/Dialogue_System/DialogueTree/EndDialogue/FirstStage/ScoreGain.ScoreGain_C:WidgetTree.Feedback.Text
+msgctxt ",2DDB6B174D4D153A9CBEEFB89D9CF158"
+msgid "Feedback"
+msgstr "Retroalimentación"
+
+#. Key:	2F0000CB425117FAF2F31FB61072A8F1
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(22 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(22 - Value).DisplayNameMap
+msgctxt ",2F0000CB425117FAF2F31FB61072A8F1"
+msgid "Style Forest"
+msgstr ""
+
+#. Key:	3ACA89C84E2A9A0FB9A6A19F9EFA84C9
+#. SourceLocation:	/Game/Menu/Widgets/PAUSE_MENU/Pause_Widget.Pause_Widget_C:WidgetTree.TextBlock_590.Text
+#: /Game/Menu/Widgets/PAUSE_MENU/Pause_Widget.Pause_Widget_C:WidgetTree.TextBlock_590.Text
+msgctxt ",3ACA89C84E2A9A0FB9A6A19F9EFA84C9"
+msgid "Here will be the instructions of the game. "
+msgstr "Instrucciones"
+
+#. Key:	3D06E0884B14A6C59E820788A4A371F0
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:DisplayLine_C_16.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:DisplayLine_C_16.Text
+msgctxt ",3D06E0884B14A6C59E820788A4A371F0"
+msgid "These practices can offer immediate relief from digital distress and anxiety, helping individuals manage their stress levels effectively."
+msgstr ""
+
+#. Key:	3E27ABC743ADFAB2017057A8D4489465
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:AskQuestion_C_2.Rensponses(2).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:AskQuestion_C_2.Rensponses(2).Rensponses
+msgctxt ",3E27ABC743ADFAB2017057A8D4489465"
+msgid "Talk on smartphone impact, reduce phone use, start year-long screen time competition with restaurant vouchers for winners."
+msgstr ""
+
+#. Key:	3E742DB24B1A001D373BF283428BB879
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",3E742DB24B1A001D373BF283428BB879"
+msgid "SunSet ( From Time Of Day : 18 )"
+msgstr ""
+
+#. Key:	3FCF6917400FBD599D6D99AEBAD1050F
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(11 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(11 - Value).DisplayNameMap
+msgctxt ",3FCF6917400FBD599D6D99AEBAD1050F"
+msgid "Noon Clear Sky"
+msgstr ""
+
+#. Key:	401EF40944D0DB7369FBABB965BBCBED
+#. SourceLocation:	/Game/Menu/Widgets/PAUSE_MENU/Pause_Widget.Pause_Widget_C:WidgetTree.TextBlock_591.Text
+#: /Game/Menu/Widgets/PAUSE_MENU/Pause_Widget.Pause_Widget_C:WidgetTree.TextBlock_591.Text
+msgctxt ",401EF40944D0DB7369FBABB965BBCBED"
+msgid "Pause Menu"
+msgstr "Menú de Pausa"
+
+#. Key:	41A7FF7C4579FEAEF644D08218754F8F
+#. SourceLocation:	/Game/Menu/Widgets/Feedback.Feedback_C:ExecuteUbergraph_Feedback [Script Bytecode]
+#: /Game/Menu/Widgets/Feedback.Feedback_C:ExecuteUbergraph_Feedback [Script Bytecode]
+msgctxt ",41A7FF7C4579FEAEF644D08218754F8F"
+msgid "Congratulations! Your commitment to digital wellbeing shines through. You've demonstrated a profound understanding of the DigiWell principles. Keep leveraging the app and other resources to elevate your expertise further."
+msgstr ""
+
+#. Key:	43234A0B4A23383CDFEFD581F36161F7
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(13 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(13 - Value).DisplayNameMap
+msgctxt ",43234A0B4A23383CDFEFD581F36161F7"
+msgid "Midnight Blood Moon"
+msgstr ""
+
+#. Key:	44F6237E4108A7FA41A198A763B7426B
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:DisplayLine_C_22.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:DisplayLine_C_22.Text
+msgctxt ",44F6237E4108A7FA41A198A763B7426B"
+msgid "Additionally, she/he can establish a work-life balance by setting boundaries. This option empowers him/her to create a healthier relationship with technology and cultivate a more intentional, peaceful workspace."
+msgstr ""
+
+#. Key:	456C12B24C5C569FFAF48994DB755E9F
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:DisplayLine_C_20.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:DisplayLine_C_20.Text
+msgctxt ",456C12B24C5C569FFAF48994DB755E9F"
+msgid " It misses though to acknowledge the difficulty to change habits by not providing a strategy to develop a healthier habit."
+msgstr ""
+
+#. Key:	46C185464A64A65DB3BD268AD043EB7E
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:DisplayLine_C_21.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:DisplayLine_C_21.Text
+msgctxt ",46C185464A64A65DB3BD268AD043EB7E"
+msgid ". They could potentially introduce more elements to employee's digital environment, potentially leading to more distractions rather than less. This option might be useful in the long term but doesn't offer an immediate solution for her current situation."
+msgstr ""
+
+#. Key:	4711A20546EBF9DD00FEB08B7196EE5B
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:AskQuestion_C_2.Rensponses(1).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:AskQuestion_C_2.Rensponses(1).Rensponses
+msgctxt ",4711A20546EBF9DD00FEB08B7196EE5B"
+msgid "Suggest productivity apps for better digital usage management and increased efficiency."
+msgstr ""
+
+#. Key:	479B4E394002910893B06EB1E9955D00
+#. SourceLocation:	/Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.Text_Language.Text
+#: /Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.Text_Language.Text
+msgctxt ",479B4E394002910893B06EB1E9955D00"
+msgid "Language"
+msgstr "Idioma"
+
+#. Key:	48021E7242A362D03CB9288A73BF20C8
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:DisplayLine_C_20.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:DisplayLine_C_20.Text
+msgctxt ",48021E7242A362D03CB9288A73BF20C8"
+msgid "It's a valuable strategy for managing overall tech usage but might not directly tackle employee's current distraction issue."
+msgstr ""
+
+#. Key:	4ABED1C44503265D55C519A7E55BF8D8
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:DisplayLine_C_20.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:DisplayLine_C_20.Text
+msgctxt ",4ABED1C44503265D55C519A7E55BF8D8"
+msgid " Introducing 'Wellbeing Zones' and workshops can provide immediate and long-term benefits. This decision, however, requires substantial organizational buy-in and resources."
+msgstr ""
+
+#. Key:	4AC73C69413848FBAE309DA3FB784331
+#. SourceLocation:	/Game/Menu/Widgets/Instructions.Instructions_C:ExecuteUbergraph_Instructions [Script Bytecode]
+#: /Game/Menu/Widgets/Instructions.Instructions_C:ExecuteUbergraph_Instructions [Script Bytecode]
+msgctxt ",4AC73C69413848FBAE309DA3FB784331"
+msgid "As a beacon for Digital Wellbeing Managers, this app is your dedicated ally in cultivating a healthier tech landscape.\r\n"
+msgstr ""
+
+#. Key:	4C689FE84F8CCD82AB92C980BFC6EAE6
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_20.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_20.Text
+msgctxt ",4C689FE84F8CCD82AB92C980BFC6EAE6"
+msgid " However this is not sufficient, firstly because employee should also fully inform his/her supervisor, and determine together which tasks can be accomplished at home, and which tasks cannot.Accordingly company will arrange for personnel shift in office."
+msgstr ""
+
+#. Key:	4E6CBD8641754EC0145B0F8751EE27BC
+#. SourceLocation:	/Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.TextBlock_591.Text
+#: /Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.TextBlock_591.Text
+msgctxt ",4E6CBD8641754EC0145B0F8751EE27BC"
+msgid "Digital Wellbeing"
+msgstr "Bienestar Digital"
+
+#. Key:	5502D5A440806D3F38A3F69660316105
+#. SourceLocation:	/Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.TextBlock_447.Text
+#: /Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.TextBlock_447.Text
+msgctxt ",5502D5A440806D3F38A3F69660316105"
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#. Key:	5570261E453375198A00A4BDBA2BF5F5
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:AskQuestion_C_2.Rensponses(2).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:AskQuestion_C_2.Rensponses(2).Rensponses
+msgctxt ",5570261E453375198A00A4BDBA2BF5F5"
+msgid "Collaborate with IT and HR to address technostressors like system complexities, updates, and constant availability pressure."
+msgstr ""
+
+#. Key:	557FE8C44C93F6670BD6B2A1EDCB717C
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",557FE8C44C93F6670BD6B2A1EDCB717C"
+msgid "Midnight Stars "
+msgstr ""
+
+#. Key:	570C075E45957154BB947FA9F35DBA79
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_SunDirection.Enum_SunDirection.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_SunDirection.Enum_SunDirection.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",570C075E45957154BB947FA9F35DBA79"
+msgid "0 degree_X+ Y0"
+msgstr ""
+
+#. Key:	59418E854CE2D1953B1EB1B5B9733E4B
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",59418E854CE2D1953B1EB1B5B9733E4B"
+msgid "Custom Mode ( From Time Of Day )"
+msgstr ""
+
+#. Key:	59707A2B46D5C7E201EE90813504F417
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_21.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_21.Text
+msgctxt ",59707A2B46D5C7E201EE90813504F417"
+msgid " For instance employee can borrow company's labtop (uploaded with required digital tools and programs). Secondly he/she should be trained on how to use them, for instance to attend meeting online. Company's role here is to train the personnel beforehand."
+msgstr ""
+
+#. Key:	5AE72DBC44CA8050A917B1BE499C4730
+#. SourceLocation:	/Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_3.Text
+#: /Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_3.Text
+msgctxt ",5AE72DBC44CA8050A917B1BE499C4730"
+msgid "GOOD SKY"
+msgstr ""
+
+#. Key:	5B7EABDF40A41952B40C60A8DB0FA326
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_1.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_1.Text
+msgctxt ",5B7EABDF40A41952B40C60A8DB0FA326"
+msgid " However I am not prepared to leave work as I have project due soon and a meeting. I want to make sure I can keep up good work while I am away."
+msgstr ""
+
+#. Key:	5CBDAB4A4F72A2BB15138F9AEC771415
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_MeshType.Enum_GoodSky_MeshType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_MeshType.Enum_GoodSky_MeshType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",5CBDAB4A4F72A2BB15138F9AEC771415"
+msgid "Sphere"
+msgstr ""
+
+#. Key:	5D5F414F4156F7C172FA28B470508A68
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:DisplayLine_C_16.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:DisplayLine_C_16.Text
+msgctxt ",5D5F414F4156F7C172FA28B470508A68"
+msgid "A dedicated program tackles the issue at its core by promoting a culture of wellness and mindfulness."
+msgstr ""
+
+#. Key:	5D6BB73E4593BD54F7B50DB0F71B5192
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",5D6BB73E4593BD54F7B50DB0F71B5192"
+msgid "Moon"
+msgstr ""
+
+#. Key:	5DBD48464C8624D39978DA96E863859A
+#. SourceLocation:	/Game/Menu/Widgets/Feedback.Feedback_C:WidgetTree.TextBlock_177.Text
+#: /Game/Menu/Widgets/Feedback.Feedback_C:WidgetTree.TextBlock_177.Text
+msgctxt ",5DBD48464C8624D39978DA96E863859A"
+msgid "Main Menu"
+msgstr "Menú Principal"
+
+#. Key:	60D36A614EB321775A0CF18D331F2D20
+#. SourceLocation:	/Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_154.Text
+#: /Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_154.Text
+msgctxt ",60D36A614EB321775A0CF18D331F2D20"
+msgid "Turn Speed Rate"
+msgstr ""
+
+#. Key:	615EB6884DEC6008749758B966B5D9E4
+#. SourceLocation:	/Game/Dialogue_System/UserInterface/DialogueBox.DialogueBox_C:WidgetTree.TextBlock_104.Text
+#: /Game/Dialogue_System/UserInterface/DialogueBox.DialogueBox_C:WidgetTree.TextBlock_104.Text
+msgctxt ",615EB6884DEC6008749758B966B5D9E4"
+msgid "Points:"
+msgstr "Puntos:"
+
+#. Key:	620C7EDB422ED85DBC47DE92B28E29FC
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",620C7EDB422ED85DBC47DE92B28E29FC"
+msgid "Slight"
+msgstr ""
+
+#. Key:	62A447374D226C39D786548DF85FDCF3
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:AskQuestion_C_2.Question
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:AskQuestion_C_2.Question
+msgctxt ",62A447374D226C39D786548DF85FDCF3"
+msgid "Your role is to recognize the critical importance of addressing the burnout and stress experienced by the employee, and you will have to work together to establish personalized work-life boundaries tailored to their needs."
+msgstr ""
+
+#. Key:	64EA5EF24AA54A7D2E41B1886498E6B4
+#. SourceLocation:	/Game/Menu/Widgets/Instructions.Instructions_C:ExecuteUbergraph_Instructions [Script Bytecode]
+#: /Game/Menu/Widgets/Instructions.Instructions_C:ExecuteUbergraph_Instructions [Script Bytecode]
+msgctxt ",64EA5EF24AA54A7D2E41B1886498E6B4"
+msgid "Welcome to a new era of harmonizing technology and wellbeing with the DigiWell project. We're thrilled to introduce the heart of our initiative: the DigiWell core standards review system App. "
+msgstr ""
+
+#. Key:	650CDB0849138B6F7594C2A4A85DD52C
+#. SourceLocation:	/Game/StartGame/AtStarts.AtStarts_C:ExecuteUbergraph_AtStarts [Script Bytecode]
+#: /Game/StartGame/AtStarts.AtStarts_C:ExecuteUbergraph_AtStarts [Script Bytecode]
+msgctxt ",650CDB0849138B6F7594C2A4A85DD52C"
+msgid "Second Line"
+msgstr "Segunda Línea"
+
+#. Key:	67DA9E8646A42B7960887DAEED0A4E9C
+#. SourceLocation:	/Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_9.Text
+#: /Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_9.Text
+msgctxt ",67DA9E8646A42B7960887DAEED0A4E9C"
+msgid "by UNEASY"
+msgstr ""
+
+#. Key:	6839FFBF414006FD483DFBB981BA00D3
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:DisplayLine_C_14.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:DisplayLine_C_14.Text
+msgctxt ",6839FFBF414006FD483DFBB981BA00D3"
+msgid "Disabling non-essential notifications offers him/her a path to improved digital wellbeing. By turning off distracting alerts, she/he gains focus and productivity. Reduced stress, enhanced concentration, and mindful tech usage are benefits of this choice. "
+msgstr ""
+
+#. Key:	698FA4204C3048378DFA5B88A0387A0C
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:DisplayLine_C_0.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:DisplayLine_C_0.Text
+msgctxt ",698FA4204C3048378DFA5B88A0387A0C"
+msgid "The digital workflow at work is growing, affecting our physical workspace. Not everyone realizes the importance of ergonomics. "
+msgstr ""
+
+#. Key:	6B97C7DD41A758599894B69E0D65FD9F
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:DisplayLine_C_21.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:DisplayLine_C_21.Text
+msgctxt ",6B97C7DD41A758599894B69E0D65FD9F"
+msgid " However, while this approach addresses the challenges of adapting to new tools, it doesn't directly counter the stress of constant connectivity."
+msgstr ""
+
+#. Key:	6D6508A146E89CE35C93B081E6BEE7AA
+#. SourceLocation:	/Game/LEVELS/GAME_LEVEL.GAME_LEVEL:PersistentLevel.NPC_0.Name
+#: /Game/LEVELS/GAME_LEVEL.GAME_LEVEL:PersistentLevel.NPC_0.Name
+msgctxt ",6D6508A146E89CE35C93B081E6BEE7AA"
+msgid "David"
+msgstr ""
+
+#. Key:	6F06A07840025BEE83614BAA5A7FBDA2
+#. SourceLocation:	/Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.TextBlock_365.Text
+#: /Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.TextBlock_365.Text
+msgctxt ",6F06A07840025BEE83614BAA5A7FBDA2"
+msgid "How To Play"
+msgstr "Cómo Jugar"
+
+#. Key:	72BD8546446ECBA4AEE353A7FEE39708
+#. SourceLocation:	/Game/Achievement_System/Achievement_hud.Achievement_hud_C:WidgetTree.TextBlock_47.Text
+#: /Game/Achievement_System/Achievement_hud.Achievement_hud_C:WidgetTree.TextBlock_47.Text
+msgctxt ",72BD8546446ECBA4AEE353A7FEE39708"
+msgid "Progress"
+msgstr "Progreso"
+
+#. Key:	72DFC22843E22AFDDC3BEB94B7D13808
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_SunDirection.Enum_SunDirection.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_SunDirection.Enum_SunDirection.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",72DFC22843E22AFDDC3BEB94B7D13808"
+msgid "90 degree_X0 Y+"
+msgstr ""
+
+#. Key:	730810A240D757B1CFDAE19979CD2B8D
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(21 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(21 - Value).DisplayNameMap
+msgctxt ",730810A240D757B1CFDAE19979CD2B8D"
+msgid "Style Desert"
+msgstr ""
+
+#. Key:	73183B844BB77DC0325AC4AA6ED9D9AF
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:AskQuestion_C_2.Question
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:AskQuestion_C_2.Question
+msgctxt ",73183B844BB77DC0325AC4AA6ED9D9AF"
+msgid "Your role is to educate the organization about healthy work habits and proper ergonomic setups for monitors, mice, chairs, and desks. You should also raise awareness about work habits and improvements in the physical work environment."
+msgstr ""
+
+#. Key:	760B06BE41928664E93BF086DE95B003
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:DisplayLine_C_1.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:DisplayLine_C_1.Text
+msgctxt ",760B06BE41928664E93BF086DE95B003"
+msgid " I want to improve that but I'm not sure where to start."
+msgstr ""
+
+#. Key:	776144E4450390CE9DBD2484621A0C21
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",776144E4450390CE9DBD2484621A0C21"
+msgid "Midnight ( From Time Of Day : 0 )"
+msgstr ""
+
+#. Key:	780BB0224055B0A93E44A1BA738E656F
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:DisplayLine_C_20.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:DisplayLine_C_20.Text
+msgctxt ",780BB0224055B0A93E44A1BA738E656F"
+msgid " This approach is the fastest and least disruptive to the daily workflow, as employees decide if and when they want to seek out new knowledge. However, it is also the least engaging."
+msgstr ""
+
+#. Key:	7903B12C433E0D8900AA6DA7901A7D90
+#. SourceLocation:	/Game/Menu/Widgets/Feedback.Feedback_C:WidgetTree.TextBlock_139.Text
+#: /Game/Menu/Widgets/Feedback.Feedback_C:WidgetTree.TextBlock_139.Text
+msgctxt ",7903B12C433E0D8900AA6DA7901A7D90"
+msgid "Success Rate"
+msgstr "Tasa de Éxito"
+
+#. Key:	791B1C72400E91D4E2C3E4B9136C79C6
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:DisplayLine_C_0.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:DisplayLine_C_0.Text
+msgctxt ",791B1C72400E91D4E2C3E4B9136C79C6"
+msgid "I find myself constantly checking my emails and notifications throughout the day. I think that since then I feel more stressed and lost my apetite to work as before."
+msgstr ""
+
+#. Key:	7AE1CF534B896AEA97053F9219EFA2CF
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:DisplayLine_C_15.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:DisplayLine_C_15.Text
+msgctxt ",7AE1CF534B896AEA97053F9219EFA2CF"
+msgid "The shared information platform for employees is a step further to raise awareness of the topic while allowing employees to search for new knowledge and learn more about the topic themselves via links to ergonomic videos and additional information."
+msgstr ""
+
+#. Key:	7C162254420AC6358747098A344D2EC8
+#. SourceLocation:	/Game/Menu/Widgets/Feedback.Feedback_C:WidgetTree.TextBlock_2.Text
+#: /Game/Menu/Widgets/Feedback.Feedback_C:WidgetTree.TextBlock_2.Text
+msgctxt ",7C162254420AC6358747098A344D2EC8"
+msgid "Next Page"
+msgstr "Siguiente Página"
+
+#. Key:	7C770FC54277B5A08827D19E0EC38BA1
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_MeshType.Enum_GoodSky_MeshType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_MeshType.Enum_GoodSky_MeshType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",7C770FC54277B5A08827D19E0EC38BA1"
+msgid "Hemisphere"
+msgstr ""
+
+#. Key:	7D12D3E14DD8297C0F3663AC4E8F339C
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",7D12D3E14DD8297C0F3663AC4E8F339C"
+msgid "Storm"
+msgstr ""
+
+#. Key:	7E824CC04E9DF5390884088B6BBCA4F9
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",7E824CC04E9DF5390884088B6BBCA4F9"
+msgid "Style Clouds Stratus"
+msgstr ""
+
+#. Key:	80E0AF2740C5F7C1B788249E9065BE82
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_14.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_14.Text
+msgctxt ",80E0AF2740C5F7C1B788249E9065BE82"
+msgid "This is the strongest response as it involves all three required steps for remote working 1) planning& prioritising tasks 2) arrangement for utilsing online tools 3) determining how to be contacted when out of office. Employee has to determine with his/her supervisor the conditions he/she can be on call. "
+msgstr ""
+
+#. Key:	823F1DBA4210EF965BE9DF967350C2A2
+#. SourceLocation:	/Game/StartGame/AtStarts.AtStarts_C:WidgetTree.TextBlock_168.Text
+#: /Game/StartGame/AtStarts.AtStarts_C:WidgetTree.TextBlock_168.Text
+msgctxt ",823F1DBA4210EF965BE9DF967350C2A2"
+msgid "Next"
+msgstr "Siguiente"
+
+#. Key:	82F5AB9D448194703E33FA9AA39994B4
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_9.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_9.Text
+msgctxt ",82F5AB9D448194703E33FA9AA39994B4"
+msgid "What should be added here is that, as a first step, employee has to be equipped with required digital/online tools at home."
+msgstr ""
+
+#. Key:	833892894BA05AA5D659C680DC3ED9BF
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:AskQuestion_C_2.Rensponses(0).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:AskQuestion_C_2.Rensponses(0).Rensponses
+msgctxt ",833892894BA05AA5D659C680DC3ED9BF"
+msgid "Ask the employee to choose which tasks to bring home and to adjust their work schedule to meet deadlines despite their absence."
+msgstr ""
+
+#. Key:	840166C04B4AC8DC60A72282983CE128
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",840166C04B4AC8DC60A72282983CE128"
+msgid "Noon ( From Time Of Day : 12 )"
+msgstr ""
+
+#. Key:	8551BABD46BC73A38E0576A5664DFC7A
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:AskQuestion_C_2.Rensponses(0).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:AskQuestion_C_2.Rensponses(0).Rensponses
+msgctxt ",8551BABD46BC73A38E0576A5664DFC7A"
+msgid "Discuss the negative impacts of excessive screen time like obesity, sleep issues, and mental health concerns, and recommend using a phone only when necessary. Encourage creating phone-free zones."
+msgstr ""
+
+#. Key:	86B3E3554A69DD526B00FD83401A2AB5
+#. SourceLocation:	/Game/LEVELS/GAME_LEVEL.GAME_LEVEL:PersistentLevel.NPC_12.Name
+#: /Game/LEVELS/GAME_LEVEL.GAME_LEVEL:PersistentLevel.NPC_12.Name
+msgctxt ",86B3E3554A69DD526B00FD83401A2AB5"
+msgid "Matthew"
+msgstr ""
+
+#. Key:	86C463B74CEB6036DD14FFBE1EFBD01B
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:DisplayLine_C_0.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:DisplayLine_C_0.Text
+msgctxt ",86C463B74CEB6036DD14FFBE1EFBD01B"
+msgid "Using more digital tools is tough. Each one has problems, and being constantly connected is tiring. "
+msgstr ""
+
+#. Key:	87B1C9C04D5BA7E6F843A68FDF987E24
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:DisplayLine_C_1.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:DisplayLine_C_1.Text
+msgctxt ",87B1C9C04D5BA7E6F843A68FDF987E24"
+msgid "My screen time affects my social life; I'm hesitant to meet friends because of work interruptions. This isolation has increased my anxiety."
+msgstr ""
+
+#. Key:	88B6482541482BFEFEDFE094DAAD6A27
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:DisplayLine_C_1.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:DisplayLine_C_1.Text
+msgctxt ",88B6482541482BFEFEDFE094DAAD6A27"
+msgid "It helps my work, but the notifications, updates, and work-life balance issues wear me out."
+msgstr ""
+
+#. Key:	89E5B6C744ACF2BF3BDFCE9DF397D686
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:DisplayLine_C_14.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:DisplayLine_C_14.Text
+msgctxt ",89E5B6C744ACF2BF3BDFCE9DF397D686"
+msgid "This approach is good because it is essential to tackle the problem at its source by implementing strategies to reduce screen time and establish a healthier balance between work and personal life. "
+msgstr ""
+
+#. Key:	8B6249B14A47CDBC53D51FB8B88B32BC
+#. SourceLocation:	/Game/Menu/Widgets/Feedback.Feedback_C:ExecuteUbergraph_Feedback [Script Bytecode]
+#: /Game/Menu/Widgets/Feedback.Feedback_C:ExecuteUbergraph_Feedback [Script Bytecode]
+msgctxt ",8B6249B14A47CDBC53D51FB8B88B32BC"
+msgid "While you've started to explore the landscape of digital wellbeing, there's room for deeper understanding. Consider delving into the DigiWell resources to enhance your knowledge further."
+msgstr ""
+
+#. Key:	8F95219948238A556A4AB3B48CDE8998
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:DisplayLine_C_14.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:DisplayLine_C_14.Text
+msgctxt ",8F95219948238A556A4AB3B48CDE8998"
+msgid "On the other hand, the joint employee meeting, is the most engageing approach, as all employees will be invitedto listen, watch and discuss the impact of digital workflows on the physical health. "
+msgstr ""
+
+#. Key:	924948B7409F649333140DAF5A417696
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:AskQuestion_C_2.Rensponses(1).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:AskQuestion_C_2.Rensponses(1).Rensponses
+msgctxt ",924948B7409F649333140DAF5A417696"
+msgid "Setting Communication Guidelines: Prioritizing effective communication, encourage asynchronous communication for non-urgent matters, reducing pressure for immediate responses, fostering a focused approach to work-related discussions."
+msgstr ""
+
+#. Key:	93F6ECBD442614642F787E8B665E7B70
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:AskQuestion_C_2.Rensponses(1).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:AskQuestion_C_2.Rensponses(1).Rensponses
+msgctxt ",93F6ECBD442614642F787E8B665E7B70"
+msgid "Suggest utilizing online tools and attending remote meetings for efficient task completion while working remotely."
+msgstr ""
+
+#. Key:	943B8EEF49563C809A06028449AB8680
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:AskQuestion_C_2.Rensponses(0).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:AskQuestion_C_2.Rensponses(0).Rensponses
+msgctxt ",943B8EEF49563C809A06028449AB8680"
+msgid "Suggest mindfulness exercises and self-relaxation techniques at work and outside, as effective tools to manage digital distress and anxiety when they arise."
+msgstr ""
+
+#. Key:	9782AE6D496A7C0D7F5FA68A0C77A923
+#. SourceLocation:	/Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_151.Text
+#: /Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_151.Text
+msgctxt ",9782AE6D496A7C0D7F5FA68A0C77A923"
+msgid "Style Clouds"
+msgstr ""
+
+#. Key:	992CC3114ED0D55D016E6283A9439A89
+#. SourceLocation:	/Game/Menu/Widgets/Feedback.Feedback_C:WidgetTree.TextBlock_1.Text
+#: /Game/Menu/Widgets/Feedback.Feedback_C:WidgetTree.TextBlock_1.Text
+msgctxt ",992CC3114ED0D55D016E6283A9439A89"
+msgid "View PDF"
+msgstr "Ver PDF"
+
+#. Key:	9AE905A5414DC269E120A090858F352C
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",9AE905A5414DC269E120A090858F352C"
+msgid "Midnight Moon"
+msgstr ""
+
+#. Key:	9CDFC6254F7A3014A9A7928A7819020C
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:DisplayLine_C_0.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:DisplayLine_C_0.Text
+msgctxt ",9CDFC6254F7A3014A9A7928A7819020C"
+msgid "I keep my phone nearby for important messages and quick info checks. Plus, during passive meetings, I use it for entertainment. "
+msgstr ""
+
+#. Key:	9EA7397340C08E0A041B07B9037AE8C8
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:DisplayLine_C_21.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:DisplayLine_C_21.Text
+msgctxt ",9EA7397340C08E0A041B07B9037AE8C8"
+msgid "Furthermore, collaborating with supervisor to establish conditions for on-call duty helps manage work-related stress and promotes effective communication. By defining hours, you create a structured framework that allows you to balance work responsibilities with personal time."
+msgstr ""
+
+#. Key:	9EB3571141A4EB92521A79BFC2B5CD37
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",9EB3571141A4EB92521A79BFC2B5CD37"
+msgid "Super Heavy"
+msgstr ""
+
+#. Key:	A0E2DEFD47AFAFB1EA4128ADEF3795D4
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:AskQuestion_C_2.Rensponses(2).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:AskQuestion_C_2.Rensponses(2).Rensponses
+msgctxt ",A0E2DEFD47AFAFB1EA4128ADEF3795D4"
+msgid "Present on screen time's impact, recommend separate work/personal phones, mindfulness, and on-call plans."
+msgstr ""
+
+#. Key:	A1A7263E4112E6F319C9D4B1698CFA71
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",A1A7263E4112E6F319C9D4B1698CFA71"
+msgid "Style Clouds Cumulus B"
+msgstr ""
+
+#. Key:	A3B2043844114925D579128DB4E3E222
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:DisplayLine_C_20.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:DisplayLine_C_20.Text
+msgctxt ",A3B2043844114925D579128DB4E3E222"
+msgid "Some express concerns about potential clashes with differing time zones or urgent situations, suggesting flexibility in its implementation."
+msgstr ""
+
+#. Key:	A6924EF54F6FB86F9B7CCAA50C1F6E6C
+#. SourceLocation:	/Game/LEVELS/GAME_LEVEL.GAME_LEVEL:PersistentLevel.NPC_5.Name
+#: /Game/LEVELS/GAME_LEVEL.GAME_LEVEL:PersistentLevel.NPC_5.Name
+msgctxt ",A6924EF54F6FB86F9B7CCAA50C1F6E6C"
+msgid "Emily"
+msgstr ""
+
+#. Key:	ABBFE088476E5B859F1F0080CC976343
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",ABBFE088476E5B859F1F0080CC976343"
+msgid "SunSet In Burn"
+msgstr ""
+
+#. Key:	AEBA56FF44D64868EE995DBAC6571D42
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:DisplayLine_C_22.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:DisplayLine_C_22.Text
+msgctxt ",AEBA56FF44D64868EE995DBAC6571D42"
+msgid "Nevertheless, these proactive measures should be combined with mindfulness practices in order to create a more sustainable solution to digital distress and anxiety. In fact, mindfulness exercises can provide short-term relief when digital distress or anxiety occur."
+msgstr ""
+
+#. Key:	AFFFA6EF4724BA9CA37F67B5C133000F
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:AskQuestion_C_2.Rensponses(1).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:AskQuestion_C_2.Rensponses(1).Rensponses
+msgctxt ",AFFFA6EF4724BA9CA37F67B5C133000F"
+msgid "Suggest using two separate phones: one for work and one for personal use. Stress the importance of using the work phone only during designated working hours and when necessary."
+msgstr ""
+
+#. Key:	B19329C349CD6CFB682917AAAA9FFBAA
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:DisplayLine_C_14.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:DisplayLine_C_14.Text
+msgctxt ",B19329C349CD6CFB682917AAAA9FFBAA"
+msgid "The majority of employees value the mindfulness breaks, stating that it contributes to a more relaxed and focused work environment. "
+msgstr ""
+
+#. Key:	B2071A4248208863D38126B005399BB5
+#. SourceLocation:	/Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C:TextRender_GEN_VARIABLE.Text
+#: /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C:TextRender_GEN_VARIABLE.Text
+msgctxt ",B2071A4248208863D38126B005399BB5"
+msgid "     Sun Rise In The East"
+msgstr ""
+
+#. Key:	B3FB534A45A227706D1A269ADB66A0C2
+#. SourceLocation:	/Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.return_back_menu.Text
+#: /Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.return_back_menu.Text
+msgctxt ",B3FB534A45A227706D1A269ADB66A0C2"
+msgid "Back"
+msgstr "Atrás"
+
+#. Key:	B43D3B46463EDBAE127170975CAAB4DD
+#. SourceLocation:	/Game/StartGame/AtStarts.AtStarts_C:ExecuteUbergraph_AtStarts [Script Bytecode]
+#: /Game/StartGame/AtStarts.AtStarts_C:ExecuteUbergraph_AtStarts [Script Bytecode]
+msgctxt ",B43D3B46463EDBAE127170975CAAB4DD"
+msgid "Third Line , is working "
+msgstr ""
+
+#. Key:	B682162444B63ACC95565DA904BB0CBB
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",B682162444B63ACC95565DA904BB0CBB"
+msgid "Style Clouds Cirriform"
+msgstr ""
+
+#. Key:	B6E13F3F4A2A2F1D0AF185AB1E777783
+#. SourceLocation:	/Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.TextBlock_691.Text
+#: /Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.TextBlock_691.Text
+msgctxt ",B6E13F3F4A2A2F1D0AF185AB1E777783"
+msgid "Exit"
+msgstr "Salir"
+
+#. Key:	B748CA3D4F63342AA79A63988A883087
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",B748CA3D4F63342AA79A63988A883087"
+msgid "Clear"
+msgstr ""
+
+#. Key:	B7F0B561480174F3A35DA0A6A061A7F2
+#. SourceLocation:	/Game/Menu/Widgets/PAUSE_MENU/Pause_Widget.Pause_Widget_C:WidgetTree.TextBlock_365.Text
+#: /Game/Menu/Widgets/PAUSE_MENU/Pause_Widget.Pause_Widget_C:WidgetTree.TextBlock_365.Text
+msgctxt ",B7F0B561480174F3A35DA0A6A061A7F2"
+msgid "How to play"
+msgstr "Cómo Jugar"
+
+#. Key:	B8C24C07480751BE3E533EA7C4A46AA3
+#. SourceLocation:	/Game/Menu/Widgets/PAUSE_MENU/Pause_Widget.Pause_Widget_C:WidgetTree.TextBlock_447.Text
+#: /Game/Menu/Widgets/PAUSE_MENU/Pause_Widget.Pause_Widget_C:WidgetTree.TextBlock_447.Text
+msgctxt ",B8C24C07480751BE3E533EA7C4A46AA3"
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#. Key:	B9654F4F461E83FEC1D312B7FFF3703B
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:AskQuestion_C_2.Rensponses(2).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:AskQuestion_C_2.Rensponses(2).Rensponses
+msgctxt ",B9654F4F461E83FEC1D312B7FFF3703B"
+msgid "Recommend turning off non-essential notifications for a focused work environment."
+msgstr ""
+
+#. Key:	BA14B30F4BA70E68D2378DB904091966
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",BA14B30F4BA70E68D2378DB904091966"
+msgid "Sun / Stars ( From Custom Mode / Time of Day  )"
+msgstr ""
+
+#. Key:	BA8B5AC647FA5503363E189D069467B0
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:DisplayLine_C_16.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:DisplayLine_C_16.Text
+msgctxt ",BA8B5AC647FA5503363E189D069467B0"
+msgid "The joint information email to employees will raise awareness of the topic, while employees can search for new knowledge and learn more about the topic themselves via links to ergonomic videos and further information."
+msgstr ""
+
+#. Key:	BB236F7B4F4A0CE6BEB9E083B54457AE
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_15.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_15.Text
+msgctxt ",BB236F7B4F4A0CE6BEB9E083B54457AE"
+msgid "This decision seems to be better than the first decision at a glance because it addresses how employee will manage remote working (considering that planning can also be done with a remote meeting with supervisor after immediate leave). "
+msgstr ""
+
+#. Key:	BD2096FB46712B48C0073B8A77A3E3E8
+#. SourceLocation:	/Game/Menu/Widgets/Instructions.Instructions_C:WidgetTree.Next_2.Text
+#: /Game/Menu/Widgets/Instructions.Instructions_C:WidgetTree.Next_2.Text
+msgctxt ",BD2096FB46712B48C0073B8A77A3E3E8"
+msgid "Continue"
+msgstr "Continuar"
+
+#. Key:	BEB8862246E06EE4407160A89B4CEF99
+#. SourceLocation:	/Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_2.Text
+#: /Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_2.Text
+msgctxt ",BEB8862246E06EE4407160A89B4CEF99"
+msgid "Randomize!!"
+msgstr ""
+
+#. Key:	BF1A2C91405E6BBDD43F52A24E73D973
+#. SourceLocation:	/Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_5.Text
+#: /Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_5.Text
+msgctxt ",BF1A2C91405E6BBDD43F52A24E73D973"
+msgid "3 X"
+msgstr ""
+
+#. Key:	BFC44238442441AC15DAF89ABE7048B9
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_2.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_2.Text
+msgctxt ",BFC44238442441AC15DAF89ABE7048B9"
+msgid " Company should always make sure there is sufficient trained personnel who can compensate for each other, and be prepared to implement schedule flexibility for personnel in need. Secondly, this decision does not answer how the employee should tackle online working when away."
+msgstr ""
+
+#. Key:	C348257244B6D29C69475F8B74C79885
+#. SourceLocation:	/Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_7.Text
+#: /Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_7.Text
+msgctxt ",C348257244B6D29C69475F8B74C79885"
+msgid "Bottom View"
+msgstr ""
+
+#. Key:	C488BB7748689D2C967066B8E1FB9F97
+#. SourceLocation:	/Game/Menu/Widgets/Instructions.Instructions_C:WidgetTree.Next.Text
+#: /Game/Menu/Widgets/Instructions.Instructions_C:WidgetTree.Next.Text
+msgctxt ",C488BB7748689D2C967066B8E1FB9F97"
+msgid "Next"
+msgstr "Siguiente"
+
+#. Key:	C5BA1C9C42C9A74370827B991DE5D855
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_0.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_0.Text
+msgctxt ",C5BA1C9C42C9A74370827B991DE5D855"
+msgid "I have to work remotely for the next three days of the week due to family emergency. I have informed my supervisor and HR."
+msgstr ""
+
+#. Key:	C79514E14A61950C15C4F3B1B6B4E773
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:AskQuestion_C_2.Question
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:AskQuestion_C_2.Question
+msgctxt ",C79514E14A61950C15C4F3B1B6B4E773"
+msgid "Your task is to offer advice and solutions to help the employee achieve a healthier balance with technology at work. What's the initial step to enhance their digital wellbeing and minimize distractions?"
+msgstr ""
+
+#. Key:	C8797A2C4F7503F30D097287756C6A49
+#. SourceLocation:	/Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.TextBlock_1.Text
+#: /Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.TextBlock_1.Text
+msgctxt ",C8797A2C4F7503F30D097287756C6A49"
+msgid "Language"
+msgstr "Idioma"
+
+#. Key:	CAD0764E421E4668CDA3C0AB83D4FF79
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",CAD0764E421E4668CDA3C0AB83D4FF79"
+msgid "None"
+msgstr ""
+
+#. Key:	CAF77A4E407E7A19F9D2FC88547A76AD
+#. SourceLocation:	/Game/StartGame/AtStarts.AtStarts_C:ExecuteUbergraph_AtStarts [Script Bytecode]
+#: /Game/StartGame/AtStarts.AtStarts_C:ExecuteUbergraph_AtStarts [Script Bytecode]
+msgctxt ",CAF77A4E407E7A19F9D2FC88547A76AD"
+msgid "We are testing the text right now"
+msgstr ""
+
+#. Key:	CB6A30F84D7E1B8026657180BEC0E499
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:DisplayLine_C_16.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:DisplayLine_C_16.Text
+msgctxt ",CB6A30F84D7E1B8026657180BEC0E499"
+msgid "Employees appreciate the designated Digital Work Hours, noting a positive impact on their ability to disconnect after work. "
+msgstr ""
+
+#. Key:	CBD028094A04F0D77AB2DB8ACED7AA67
+#. SourceLocation:	/Game/Menu/Widgets/Feedback.Feedback_C:ExecuteUbergraph_Feedback [Script Bytecode]
+#: /Game/Menu/Widgets/Feedback.Feedback_C:ExecuteUbergraph_Feedback [Script Bytecode]
+msgctxt ",CBD028094A04F0D77AB2DB8ACED7AA67"
+msgid "Great effort! You're making strides in comprehending the nuances of digital wellbeing. Dive into the DigiWell resources, and you'll find valuable insights to enhance your understanding."
+msgstr ""
+
+#. Key:	CC42218A4BB024851CE476802AE53FBA
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_SunDirection.Enum_SunDirection.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_SunDirection.Enum_SunDirection.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",CC42218A4BB024851CE476802AE53FBA"
+msgid "180 degree_X- Y0"
+msgstr ""
+
+#. Key:	CF50226947854F65685B45865A0266F9
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:DisplayLine_C_22.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:DisplayLine_C_22.Text
+msgctxt ",CF50226947854F65685B45865A0266F9"
+msgid "Some suggest incorporating a variety of activities to cater to different preferences and ensuring that participation is optional."
+msgstr ""
+
+#. Key:	D04615404F1DA41B297BD8B439295A7B
+#. SourceLocation:	/Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_6.Text
+#: /Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_6.Text
+msgctxt ",D04615404F1DA41B297BD8B439295A7B"
+msgid "Top View"
+msgstr ""
+
+#. Key:	D24780B247F15B248DF609AEEB047476
+#. SourceLocation:	/Game/Menu/Widgets/PAUSE_MENU/Pause_Widget.Pause_Widget_C:WidgetTree.TextBlock.Text
+#: /Game/Menu/Widgets/PAUSE_MENU/Pause_Widget.Pause_Widget_C:WidgetTree.TextBlock.Text
+msgctxt ",D24780B247F15B248DF609AEEB047476"
+msgid "Resume"
+msgstr "Reanudar"
+
+#. Key:	D2B6C33341F69BF1621215BF9E257BEC
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:AskQuestion_C_2.Rensponses(1).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:AskQuestion_C_2.Rensponses(1).Rensponses
+msgctxt ",D2B6C33341F69BF1621215BF9E257BEC"
+msgid "Launch a 'Tech Buddy' system in the workplace where employees pair up to mentor and support each other in mastering new digital tools, addressing techno-complexity."
+msgstr ""
+
+#. Key:	D2E81C7C476FB9FC7869C2A94F509FDC
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:DisplayLine_C_16.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:DisplayLine_C_16.Text
+msgctxt ",D2E81C7C476FB9FC7869C2A94F509FDC"
+msgid "Making the individual aware of the negative consequences and providing ideas to tackle such negative habits is a good approach."
+msgstr ""
+
+#. Key:	D3311244442D3C2A36D248B330ED751A
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_8.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:DisplayLine_C_8.Text
+msgctxt ",D3311244442D3C2A36D248B330ED751A"
+msgid "What is more, employee should follow rules of working from home as outlined by the company. For instance, focus time and unplugging times should be realised."
+msgstr ""
+
+#. Key:	D364768044A94B2DC0FBB0B15E0F29B3
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:DisplayLine_C_15.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:DisplayLine_C_15.Text
+msgctxt ",D364768044A94B2DC0FBB0B15E0F29B3"
+msgid "Introducing more productivity apps can be helpful, but it might add to the digital clutter and complexity that he/she is trying to manage. While these apps can assist in organization, they won't directly address the issue of constant notifications"
+msgstr ""
+
+#. Key:	D55282AB46DA77748ED0249904AACA4A
+#. SourceLocation:	/Game/Menu/Widgets/Instructions.Instructions_C:ExecuteUbergraph_Instructions [Script Bytecode]
+#: /Game/Menu/Widgets/Instructions.Instructions_C:ExecuteUbergraph_Instructions [Script Bytecode]
+msgctxt ",D55282AB46DA77748ED0249904AACA4A"
+msgid "At DigiWell, we're all about making technology work better for everyone's wellbeing. Your role involves finding ways to make sure your team uses technology in a mindful and healthy way.\r\n"
+msgstr ""
+
+#. Key:	D677BB444BD6CA2C478FECB26B13F5ED
+#. SourceLocation:	/Game/LEVELS/GAME_LEVEL.GAME_LEVEL:PersistentLevel.NPC_8.Name
+#: /Game/LEVELS/GAME_LEVEL.GAME_LEVEL:PersistentLevel.NPC_8.Name
+msgctxt ",D677BB444BD6CA2C478FECB26B13F5ED"
+msgid "Michael"
+msgstr ""
+
+#. Key:	D7C5BE60446728753986889EAC8CCD66
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_SunDirection.Enum_SunDirection.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_SunDirection.Enum_SunDirection.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",D7C5BE60446728753986889EAC8CCD66"
+msgid "135 degree_X- Y+"
+msgstr ""
+
+#. Key:	D8B6CD2B4BCE75E9BB62A68630334A81
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_SunDirection.Enum_SunDirection.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_SunDirection.Enum_SunDirection.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",D8B6CD2B4BCE75E9BB62A68630334A81"
+msgid "45 degree_X+ Y+"
+msgstr ""
+
+#. Key:	DA71F14E4BDE8411A271C98E274DAB29
+#. SourceLocation:	/Game/Menu/Widgets/PAUSE_MENU/Pause_Widget.Pause_Widget_C:WidgetTree.return_back_menu.Text
+#: /Game/Menu/Widgets/PAUSE_MENU/Pause_Widget.Pause_Widget_C:WidgetTree.return_back_menu.Text
+msgctxt ",DA71F14E4BDE8411A271C98E274DAB29"
+msgid "Back"
+msgstr "Atrás"
+
+#. Key:	DB41B8F54747E7DDE12CE6985B109646
+#. SourceLocation:	/Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_152.Text
+#: /Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_152.Text
+msgctxt ",DB41B8F54747E7DDE12CE6985B109646"
+msgid "Mesh Type"
+msgstr ""
+
+#. Key:	DC11D7204D15FE88393D91A77BABD970
+#. SourceLocation:	/Game/Menu/Widgets/Instructions.Instructions_C:ExecuteUbergraph_Instructions [Script Bytecode]
+#: /Game/Menu/Widgets/Instructions.Instructions_C:ExecuteUbergraph_Instructions [Script Bytecode]
+msgctxt ",DC11D7204D15FE88393D91A77BABD970"
+msgid "Are you up for the challenge? Let's get started on this journey to boost digital wellbeing at your workplace. "
+msgstr ""
+
+#. Key:	DC6E1E5241A16D66EF9EB5853A93BAC0
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(10 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(10 - Value).DisplayNameMap
+msgctxt ",DC6E1E5241A16D66EF9EB5853A93BAC0"
+msgid "Style DarkSouls"
+msgstr ""
+
+#. Key:	DDE0B0584E45FECAD2D5DA8B282D9131
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:DisplayLine_C_20.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:DisplayLine_C_20.Text
+msgctxt ",DDE0B0584E45FECAD2D5DA8B282D9131"
+msgid " However, it's important to note that while these techniques are helpful for coping with the symptoms, they do not address the root cause of the issue, which is excessive screen time and digital overuse."
+msgstr ""
+
+#. Key:	E2E6F61F4E21E4ABDD5244B05A592CF7
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",E2E6F61F4E21E4ABDD5244B05A592CF7"
+msgid "Super Slight"
+msgstr ""
+
+#. Key:	E485B53C497959D834C7088A70034595
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",E485B53C497959D834C7088A70034595"
+msgid "Default"
+msgstr ""
+
+#. Key:	E49FD754435D4647E8C809A6B7ABB6E8
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",E49FD754435D4647E8C809A6B7ABB6E8"
+msgid "Style Clouds Cumulus A"
+msgstr ""
+
+#. Key:	E66C38D24CBC457F140430869BAA5C6E
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:DisplayLine_C_14.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FirstStage/DialogyeTreeActor1.DialogyeTreeActor1:DisplayLine_C_14.Text
+msgctxt ",E66C38D24CBC457F140430869BAA5C6E"
+msgid "Directly addressing technostressors with the IT and HR departments can lead to tangible changes in how technology is integrated and utilized within the workspace. This might include better IT support, training sessions, or even reconsidering certain tools and platforms. "
+msgstr ""
+
+#. Key:	E6CA163E4C1BE81995F11EA3CC1469CB
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:AskQuestion_C_2.Rensponses(2).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:AskQuestion_C_2.Rensponses(2).Rensponses
+msgctxt ",E6CA163E4C1BE81995F11EA3CC1469CB"
+msgid "Introducing Mindfulness Breaks: Implementing short breaks with guided meditation, stretching, and screen-free moments to enhance mental health and reduce stress during the workday."
+msgstr ""
+
+#. Key:	E710EF2048735B2127033D93725F76C0
+#. SourceLocation:	/Game/Menu/Widgets/Instructions.Instructions_C:ExecuteUbergraph_Instructions [Script Bytecode]
+#: /Game/Menu/Widgets/Instructions.Instructions_C:ExecuteUbergraph_Instructions [Script Bytecode]
+msgctxt ",E710EF2048735B2127033D93725F76C0"
+msgid "Join us on this transformative journey, where technology enhances wellbeing. Step into DigiWell, where wellbeing and technology unite for excellence."
+msgstr ""
+
+#. Key:	E7CBD2204E47FE8A5EEE7FA4DFAC7A07
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:DisplayLine_C_1.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:DisplayLine_C_1.Text
+msgctxt ",E7CBD2204E47FE8A5EEE7FA4DFAC7A07"
+msgid "I want to raise awareness about how long, sedentary work impacts our health."
+msgstr ""
+
+#. Key:	E8126F464441FF947EA7FA97409FC710
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:DisplayLine_C_15.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:DisplayLine_C_15.Text
+msgctxt ",E8126F464441FF947EA7FA97409FC710"
+msgid "This is the more comprehensive solution. While mindfulness exercises can provide short-term relief, a long-term approach involves boundaries for technology use. Combining these measures with mindfulness can create a solution to digital distress. "
+msgstr ""
+
+#. Key:	E8BEB9F34FACA60564E76EB7B010D89E
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(12 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(12 - Value).DisplayNameMap
+msgctxt ",E8BEB9F34FACA60564E76EB7B010D89E"
+msgid "Style Death"
+msgstr ""
+
+#. Key:	E99F8862457CD94E8DEB5497B38C602E
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:AskQuestion_C_2.Rensponses(2).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:AskQuestion_C_2.Rensponses(2).Rensponses
+msgctxt ",E99F8862457CD94E8DEB5497B38C602E"
+msgid "Advise the employee to plan tasks, use digital tools when remote working, and communicate with the supervisor about contact preferences while away."
+msgstr ""
+
+#. Key:	EB3B2A2246DE811564E9158CF8501233
+#. SourceLocation:	/Game/Menu/Widgets/Feedback.Feedback_C:WidgetTree.TextBlock.Text
+#: /Game/Menu/Widgets/Feedback.Feedback_C:WidgetTree.TextBlock.Text
+msgctxt ",EB3B2A2246DE811564E9158CF8501233"
+msgid "Outcome"
+msgstr "Resultado"
+
+#. Key:	EB6753DB450D365D9D36AFB797E71CC3
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:AskQuestion_C_2.Rensponses(1).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:AskQuestion_C_2.Rensponses(1).Rensponses
+msgctxt ",EB6753DB450D365D9D36AFB797E71CC3"
+msgid "Set up a platform with resources on how digital work affects the physical work environment and promotes healthy ergonomic habits, featuring links to websites illustrating proper ergonomic practices and office furniture"
+msgstr ""
+
+#. Key:	EB8BD2384609F7D6B46387810489F57B
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",EB8BD2384609F7D6B46387810489F57B"
+msgid "Sun / Stars + Moon ( From Custom Mode / Time of Day  ) "
+msgstr ""
+
+#. Key:	ECA3336B45A69A95132816B987976198
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:DisplayLine_C_1.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:DisplayLine_C_1.Text
+msgctxt ",ECA3336B45A69A95132816B987976198"
+msgid "I have no boundary between work and personal life, it is all blurred. I am feeling stressed, even burnout, and my productivity level is not the one it used to be."
+msgstr ""
+
+#. Key:	EE929CA74C3FB0E6CDA90A92CA441A15
+#. SourceLocation:	/Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_1.Text
+#: /Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_1.Text
+msgctxt ",EE929CA74C3FB0E6CDA90A92CA441A15"
+msgid "Clouds Coverage Preset"
+msgstr ""
+
+#. Key:	EF1748CB439BCD20DFC23EA3C817CA4F
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:DisplayLine_C_16.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:DisplayLine_C_16.Text
+msgctxt ",EF1748CB439BCD20DFC23EA3C817CA4F"
+msgid "While setting specific tech-free times can be beneficial, it might not address the immediate challenge of distractions caused by notifications. This option focuses on designated time slots for tech use, which may not prevent interruptions during work hours. "
+msgstr ""
+
+#. Key:	EF7B390943D502E93CFBF0A8DB418DD0
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:AskQuestion_C_2.Rensponses(0).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SeventhStage/DialogyeTreeActor7.DialogyeTreeActor7:AskQuestion_C_2.Rensponses(0).Rensponses
+msgctxt ",EF7B390943D502E93CFBF0A8DB418DD0"
+msgid "Introducing Digital Work Hours: Designated focused work times with minimized notifications to encourage work-life balance for employees."
+msgstr ""
+
+#. Key:	EFBC334049E149DCAFF3519D82C34999
+#. SourceLocation:	/Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_0.Text
+#: /Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_0.Text
+msgctxt ",EFBC334049E149DCAFF3519D82C34999"
+msgid "Camera Pitch"
+msgstr ""
+
+#. Key:	F1EEFE45445C6B2074DAE0BA6DECB3CF
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:DisplayLine_C_0.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/ThirdStage/DialogyeTreeActor3.DialogyeTreeActor3:DisplayLine_C_0.Text
+msgctxt ",F1EEFE45445C6B2074DAE0BA6DECB3CF"
+msgid "I spend too much time on my computer and phone, and it's overwhelming. The constant work emails, notifications, and virtual meetings leave me mentally drained and anxious."
+msgstr ""
+
+#. Key:	F20099434A1AB34180A68FA67C510C8F
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:AskQuestion_C_2.Rensponses(2).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FourthStage/DialogyeTreeActor4.DialogyeTreeActor4:AskQuestion_C_2.Rensponses(2).Rensponses
+msgctxt ",F20099434A1AB34180A68FA67C510C8F"
+msgid "Plan an employee meeting about the impact of digital workflows on the physical work environment, including ergonomic tool usage and healthy work habits."
+msgstr ""
+
+#. Key:	F2C565DF429F8C13D1DCDAA744173929
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_SunDirection.Enum_SunDirection.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_SunDirection.Enum_SunDirection.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",F2C565DF429F8C13D1DCDAA744173929"
+msgid "225 degree_X- Y-"
+msgstr ""
+
+#. Key:	F59F455F4E5194CEA0865097962C093D
+#. SourceLocation:	/Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_10.Text
+#: /Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_10.Text
+msgctxt ",F59F455F4E5194CEA0865097962C093D"
+msgid "v2.4"
+msgstr ""
+
+#. Key:	F62C17CD4E71A595EADFCAB2FF1C9EF8
+#. SourceLocation:	/Game/LEVELS/GAME_LEVEL.GAME_LEVEL:PersistentLevel.NPC_6.Name
+#: /Game/LEVELS/GAME_LEVEL.GAME_LEVEL:PersistentLevel.NPC_6.Name
+msgctxt ",F62C17CD4E71A595EADFCAB2FF1C9EF8"
+msgid "Diana"
+msgstr ""
+
+#. Key:	F6CC9FCB469018ECFD146F9D27030634
+#. SourceLocation:	/Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.TextBlock.Text
+#: /Game/Menu/Widgets/Main_Widget.Main_Widget_C:WidgetTree.TextBlock.Text
+msgctxt ",F6CC9FCB469018ECFD146F9D27030634"
+msgid "Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.2022-1-FR01-KA220-VET-000088097\r\n"
+msgstr "Financiado por la Unión Europea. Las opiniones expresadas son solo del autor(es) y no reflejan necesariamente las de la Unión Europea o de la Agencia Ejecutiva de Educación y Cultura Europea (EACEA). Ni la Unión Europea ni la EACEA pueden ser responsables de ellas. 2022-1-FR01-KA220-VET-000088097"
+
+#. Key:	F6F8CC434FB81ABF49E0B2BBD34F8B00
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",F6F8CC434FB81ABF49E0B2BBD34F8B00"
+msgid "Middle"
+msgstr ""
+
+#. Key:	F95190B142F78847CE678EAF9905E418
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:AskQuestion_C_2.Rensponses(0).Rensponses
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/FisthStage/DialogyeTreeActor5.DialogyeTreeActor5:AskQuestion_C_2.Rensponses(0).Rensponses
+msgctxt ",F95190B142F78847CE678EAF9905E418"
+msgid "Encourage her/him to designate specific times during the day when she/he won't check emails or notifications, allowing her/him to focus on tasks."
+msgstr ""
+
+#. Key:	F96386D44BD830A88B8B81B252427442
+#. SourceLocation:	/Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_153.Text
+#: /Game/GoodSky/Resource/UI/WB_GoodSky_Menu.WB_GoodSky_Menu_C:WidgetTree.TextBlock_153.Text
+msgctxt ",F96386D44BD830A88B8B81B252427442"
+msgid "Turn Table"
+msgstr ""
+
+#. Key:	F9B4F2AC4C87B63267E1A68D8B788FEA
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:DisplayLine_C_1.Text
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SecondStage/DialogyeTreeActor2.DialogyeTreeActor2:DisplayLine_C_1.Text
+msgctxt ",F9B4F2AC4C87B63267E1A68D8B788FEA"
+msgid "It's so handy; I can't imagine life without it."
+msgstr ""
+
+#. Key:	FB4CCABE410724A50A2EC29831EA8CC5
+#. SourceLocation:	/Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(15 - Value).DisplayNameMap
+#: /Game/GoodSky/Resource/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(15 - Value).DisplayNameMap
+msgctxt ",FB4CCABE410724A50A2EC29831EA8CC5"
+msgid "SunRise ( From Time Of Day : 6 )"
+msgstr ""
+
+#. Key:	FC2E907D4C59C8276613248DC95B5B4D
+#. SourceLocation:	/Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:AskQuestion_C_2.Question
+#: /Game/Dialogue_System/DialogueTree/DialogueTree/SixthStage/DialogyeTreeActor6.DialogyeTreeActor6:AskQuestion_C_2.Question
+msgctxt ",FC2E907D4C59C8276613248DC95B5B4D"
+msgid "Your role is to offer guidance and solutions for achieving a balance between office and remote work. What steps can you suggest to help the employee prepare for remote work and adjust to changing work habits?"
+msgstr ""
+
+#. Key:	AchievmentGreek
+#. SourceLocation:	/Game/Menu/sT_Localization.sT_Localization
+#: /Game/Menu/sT_Localization.sT_Localization
+msgctxt "sT_Localization,AchievmentGreek"
+msgid "Achievement Progress"
+msgstr "Progreso de Logros"
+
+#. Key:	Menu_Exit
+#. SourceLocation:	/Game/Menu/sT_Localization.sT_Localization
+#: /Game/Menu/sT_Localization.sT_Localization
+msgctxt "sT_Localization,Menu_Exit"
+msgid "Exit"
+msgstr "Salir"
+
+#. Key:	Menu_HowToPlay
+#. SourceLocation:	/Game/Menu/sT_Localization.sT_Localization
+#: /Game/Menu/sT_Localization.sT_Localization
+msgctxt "sT_Localization,Menu_HowToPlay"
+msgid "How To Play"
+msgstr "Cómo Jugar"
+
+#. Key:	Menu_Start
+#. SourceLocation:	/Game/Menu/sT_Localization.sT_Localization
+#: /Game/Menu/sT_Localization.sT_Localization
+msgctxt "sT_Localization,Menu_Start"
+msgid "Start"
+msgstr "Inicio"
+
+#. Key:	UnlockAchievement
+#. SourceLocation:	/Game/Menu/sT_Localization.sT_Localization
+#: /Game/Menu/sT_Localization.sT_Localization
+msgctxt "sT_Localization,UnlockAchievement"
+msgid "Unlock the next level"
+msgstr "Desbloquear el siguiente nivel"
+
